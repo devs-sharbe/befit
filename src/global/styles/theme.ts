@@ -4,6 +4,7 @@ export default {
     font: '#EFF1F8',
     white: '#FFFFFF',
     secondary: '#229CFF',
+    secondary_disabled: '#88C7FC',
     text: '#333333',
     text_light: '#999999',
     shape: '#CFCFCF'
